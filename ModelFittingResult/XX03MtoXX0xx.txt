@@ -1,0 +1,194 @@
+hide, Fdes
+hide, data_test.head()
+
+ SECTION 1 *********
+                   coef           columns
+0                 [0.0]             N_0.0
+1       [1.18155527812]             N_1.0
+2      [-1.56671611465]             N_2.0
+3       [2.34219819254]             S_0.0
+4     [-0.223171289602]             S_1.0
+5   [-0.00560504797923]          C_scaled
+6                 [0.0]          H_scaled
+7      [0.291875178882]          O_scaled
+8                 [0.0]       theo_scaled
+9      [-4.19852684811]  intensity_scaled
+10      [6.16575617739]        s/n_scaled
+11     [-1.26981207771]        ppm_scaled
+12      [-1.4627888307]        DBE_scaled
+13                [0.0]        KMD_scaled
+#######
+  0.0    6074
+ 1.0     435
+-1.0     240
+Name: type, dtype: int64 #######
+ 6749
+
+percent:
+#######
+  0.0    0.899985
+ 1.0    0.064454
+-1.0    0.035561
+Name: type, dtype: float64
+
+ SECTION 2 *********
+                   coef           columns
+0                 [0.0]             N_0.0
+1       [1.18155527812]             N_1.0
+2      [-1.56671611465]             N_2.0
+3       [2.34219819254]             S_0.0
+4     [-0.223171289602]             S_1.0
+5   [-0.00560504797923]          C_scaled
+6                 [0.0]          H_scaled
+7      [0.291875178882]          O_scaled
+8                 [0.0]       theo_scaled
+9      [-4.19852684811]  intensity_scaled
+10      [6.16575617739]        s/n_scaled
+11     [-1.26981207771]        ppm_scaled
+12      [-1.4627888307]        DBE_scaled
+13                [0.0]        KMD_scaled
+#######
+  0.0    5891
+ 1.0     416
+-1.0     201
+Name: type, dtype: int64 #######
+ 6508
+
+percent:
+#######
+  0.0    0.905194
+ 1.0    0.063921
+-1.0    0.030885
+Name: type, dtype: float64
+OK!
+[Finished in 117.0s]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+hide, Fdes
+hide, data_test.head()
+
+ SECTION 1 *********
+                   coef           columns
+0                 [0.0]             N_0.0
+1       [1.18153515186]             N_1.0
+2      [-1.56669321896]             N_2.0
+3       [2.34201791573]             S_0.0
+4     [-0.223401491243]             S_1.0
+5   [-0.00561092810846]          C_scaled
+6                 [0.0]          H_scaled
+7       [0.29183469228]          O_scaled
+8                 [0.0]       theo_scaled
+9       [-4.1952671905]  intensity_scaled
+10       [6.1617820277]        s/n_scaled
+11     [-1.26982102762]        ppm_scaled
+12     [-1.46283110157]        DBE_scaled
+13                [0.0]        KMD_scaled
+#######
+  0.0    6074
+ 1.0     435
+-1.0     240
+Name: type, dtype: int64 #######
+ 6749
+
+percent:
+#######
+  0.0    0.899985
+ 1.0    0.064454
+-1.0    0.035561
+Name: type, dtype: float64
+
+ SECTION 2 *********
+                   coef           columns
+0                 [0.0]             N_0.0
+1       [1.18153515186]             N_1.0
+2      [-1.56669321896]             N_2.0
+3       [2.34201791573]             S_0.0
+4     [-0.223401491243]             S_1.0
+5   [-0.00561092810846]          C_scaled
+6                 [0.0]          H_scaled
+7       [0.29183469228]          O_scaled
+8                 [0.0]       theo_scaled
+9       [-4.1952671905]  intensity_scaled
+10       [6.1617820277]        s/n_scaled
+11     [-1.26982102762]        ppm_scaled
+12     [-1.46283110157]        DBE_scaled
+13                [0.0]        KMD_scaled
+#######
+  0.0    5891
+ 1.0     416
+-1.0     201
+Name: type, dtype: int64 #######
+ 6508
+
+percent:
+#######
+  0.0    0.905194
+ 1.0    0.063921
+-1.0    0.030885
+Name: type, dtype: float64
+OK!
+[Finished in 114.1s]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+hide, Fdes
+hide, data_test.head()
+
+ SECTION 1 *********
+                   coef           columns
+0                 [0.0]             N_0.0
+1        [1.1815368231]             N_1.0
+2      [-1.56670246178]             N_2.0
+3       [2.34203390055]             S_0.0
+4      [-0.22337578672]             S_1.0
+5   [-0.00561156243387]          C_scaled
+6                 [0.0]          H_scaled
+7      [0.291839251029]          O_scaled
+8                 [0.0]       theo_scaled
+9      [-4.19564884741]  intensity_scaled
+10      [6.16223571779]        s/n_scaled
+11      [-1.2698198815]        ppm_scaled
+12     [-1.46282476069]        DBE_scaled
+13                [0.0]        KMD_scaled
+#######
+  0.0    6074
+ 1.0     435
+-1.0     240
+Name: type, dtype: int64 #######
+ 6749
+
+percent:
+#######
+  0.0    0.899985
+ 1.0    0.064454
+-1.0    0.035561
+Name: type, dtype: float64
+
+ SECTION 2 *********
+                   coef           columns
+0                 [0.0]             N_0.0
+1        [1.1815368231]             N_1.0
+2      [-1.56670246178]             N_2.0
+3       [2.34203390055]             S_0.0
+4      [-0.22337578672]             S_1.0
+5   [-0.00561156243387]          C_scaled
+6                 [0.0]          H_scaled
+7      [0.291839251029]          O_scaled
+8                 [0.0]       theo_scaled
+9      [-4.19564884741]  intensity_scaled
+10      [6.16223571779]        s/n_scaled
+11      [-1.2698198815]        ppm_scaled
+12     [-1.46282476069]        DBE_scaled
+13                [0.0]        KMD_scaled
+#######
+  0.0    5891
+ 1.0     416
+-1.0     201
+Name: type, dtype: int64 #######
+ 6508
+
+percent:
+#######
+  0.0    0.905194
+ 1.0    0.063921
+-1.0    0.030885
+Name: type, dtype: float64
+OK!
+[Finished in 113.4s]
